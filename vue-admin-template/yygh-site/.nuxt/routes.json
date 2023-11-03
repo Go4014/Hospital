@@ -1,0 +1,93 @@
+[
+  {
+    "name": "order",
+    "path": "/order",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\order\\\\index.vue",
+    "chunkName": "pages/order/index",
+    "_name": "_2d409924"
+  },
+  {
+    "name": "patient",
+    "path": "/patient",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\patient\\\\index.vue",
+    "chunkName": "pages/patient/index",
+    "_name": "_0b04cad7"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index",
+    "_name": "_142dd36d"
+  },
+  {
+    "name": "hosp-booking",
+    "path": "/hosp/booking",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\hosp\\\\booking.vue",
+    "chunkName": "pages/hosp/booking",
+    "_name": "_4a68e17b"
+  },
+  {
+    "name": "hosp-schedule",
+    "path": "/hosp/schedule",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\hosp\\\\schedule.vue",
+    "chunkName": "pages/hosp/schedule",
+    "_name": "_4d02f036"
+  },
+  {
+    "name": "order-show",
+    "path": "/order/show",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\order\\\\show.vue",
+    "chunkName": "pages/order/show",
+    "_name": "_165bf4de"
+  },
+  {
+    "name": "patient-add",
+    "path": "/patient/add",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\patient\\\\add.vue",
+    "chunkName": "pages/patient/add",
+    "_name": "_2f69d266"
+  },
+  {
+    "name": "patient-show",
+    "path": "/patient/show",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\patient\\\\show.vue",
+    "chunkName": "pages/patient/show",
+    "_name": "_143045f0"
+  },
+  {
+    "name": "weixin-callback",
+    "path": "/weixin/callback",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\weixin\\\\callback.vue",
+    "chunkName": "pages/weixin/callback",
+    "_name": "_33e93a51"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8294dbd0"
+  },
+  {
+    "name": "hosp-detail-hoscode",
+    "path": "/hosp/detail/:hoscode?",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\hosp\\\\detail\\\\_hoscode.vue",
+    "chunkName": "pages/hosp/detail/_hoscode",
+    "_name": "_71a8dad9"
+  },
+  {
+    "name": "hosp-notice-hoscode",
+    "path": "/hosp/notice/:hoscode?",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\hosp\\\\notice\\\\_hoscode.vue",
+    "chunkName": "pages/hosp/notice/_hoscode",
+    "_name": "_4d86e120"
+  },
+  {
+    "name": "hosp-hoscode",
+    "path": "/hosp/:hoscode?",
+    "component": "E:\\\\StudyProject\\\\projectData\\\\Hospital\\\\vue-admin-template\\\\yygh-site\\\\pages\\\\hosp\\\\_hoscode.vue",
+    "chunkName": "pages/hosp/_hoscode",
+    "_name": "_3ee7eec8"
+  }
+]
